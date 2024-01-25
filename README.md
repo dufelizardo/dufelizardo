@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ## Contributions Streak on GitHub for Eduardo Felizardo Cândido
 <div align="center" >
   <img width="40%" height="100%" src="http://github-readme-streak-stats.herokuapp.com?user=dufelizardo&theme=radical"/>
+  <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dufelizardo&theme=vue-dark" alt="GitHub Streak" /></a>-->
 </div>
 
 ## Top Programming Languages on GitHub for Eduardo Felizardo Cândido
