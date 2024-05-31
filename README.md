@@ -40,3 +40,118 @@ Here are some ideas to get you started:
   * [Bootcamp](https://github.com/edufelizardo1/Bootcamp) <img src="https://img.shields.io/badge/Concluded-100%25-green"/>  <img src="https://img.shields.io/badge/public-No-red"/>
   * [GFT-STARTER-2021](https://github.com/edufelizardo1/GFT-START-2021) <img src="https://img.shields.io/badge/Concluded-100%25-green"/>  <img src="https://img.shields.io/badge/public-Yes-green"/>
   -->
+  
+#
+## Alura
+
+<details>
+  <summary>Clique para ver mais informações</summary>
+  <p>Formações:</p>
+
+  * [Formação: Aprenda a programar em Java com Orientação a Objetos](https://cursos.alura.com.br/user/edufelizardo/degree-java-v142134-142134/certificate)
+    * [Curso: Java JRE e JDK: compile e execute o seu programa](https://cursos.alura.com.br/certificate/edufelizardo/java-primeiros-passos)
+    * [Curso: Java OO: entendendo a Orientação a Objetos](https://www.exemplo.com/tutoriais)
+    * [Curso: Java Polimorfismo: entenda herança e interfaces](https://cursos.alura.com.br/certificate/edufelizardo/java-heranca-interfaces-polimorfismo)
+    * [Curso: Java Exceções: aprenda a criar, lançar e controlar exceções](https://cursos.alura.com.br/certificate/edufelizardo/java-excecoes)
+    * [Curso: Java e java.lang: programe com a classe Object e String](https://cursos.alura.com.br/certificate/edufelizardo/java-pacotes-e-java-lang)
+    * [Curso: Java e java.util: Coleções, Wrappers e Lambda expressions](https://cursos.alura.com.br/certificate/edufelizardo/java-util-lambdas)
+    * [Curso: Java e java.io: Streams, Reader e Writers](https://cursos.alura.com.br/certificate/edufelizardo/java-trabalhando-com-io)
+    * [Curso: Java Collections: Dominando Listas, Sets e Mapas](https://cursos.alura.com.br/certificate/edufelizardo/java-collections)
+    * [Curso: Java 8: conheça as novidades dessa versão](https://cursos.alura.com.br/certificate/edufelizardo/java8-lambdas)
+    * [Curso: TDD e Java: testes automatizados com JUnit](https://cursos.alura.com.br/certificate/edufelizardo/tdd-java-testes-automatizados-junit)
+    
+  * [Formação: Spring Framework](https://cursos.alura.com.br/user/edufelizardo/degree-spring-framework-136314/certificate)
+    * [Curso: Java Servlet: programação web Java](https://cursos.alura.com.br/certificate/edufelizardo/servlets-fundamentos-programacao-web-java)
+    * [Curso: Java Servlet: autenticação, autorização e o padrão MVC](https://cursos.alura.com.br/certificate/edufelizardo/servlet-autenticacao-autorizacao-mvc)
+    * [Curso: Maven: gerenciamento de dependências e build de aplicações Java](https://cursos.alura.com.br/certificate/edufelizardo/maven-gerenciamento-dependencias-build-aplicacoes-javac)
+    * [Curso: Java e JDBC: trabalhando com um banco de dados](https://cursos.alura.com.br/certificate/edufelizardo/jdbc-dao-persistencia)
+    * [Curso: Persistência com JPA: Hibernate](https://cursos.alura.com.br/certificate/edufelizardo/persistencia-jpa-introducao-hibernate)
+    * [Curso: Java e JPA: consultas avançadas, performance e modelos complexos](https://cursos.alura.com.br/certificate/edufelizardo/java-jpa-consultas-avancadas-performance-modelos-complexos)
+    * [Curso: Spring Data JPA: Repositórios, Consultas, Projeções e Specifications](https://cursos.alura.com.br/certificate/edufelizardo/spring-data-jpa)
+    * [Curso: Spring MVC: crie um web app com Thymeleaf e Bootstrap](https://cursos.alura.com.br/certificate/edufelizardo/spring-mvc-thymeleaf-bootstrap)
+    * [Curso: Spring MVC: autenticação com Spring Security, API Rest e AJAX](https://cursos.alura.com.br/certificate/edufelizardo/spring-mvc-security-rest-vuejs-ajax)
+    * [Curso: Spring Boot API REST: construa uma API](https://cursos.alura.com.br/certificate/edufelizardo/spring-boot-api-rest)
+    * [Curso: Spring Boot API Rest: Segurança da API, Cache e Monitoramento](https://cursos.alura.com.br/certificate/edufelizardo/spring-boot-seguranca-cache-monitoramento)
+    * [Curso: Spring Boot e Teste: Profiles, Testes e Deploy](https://cursos.alura.com.br/certificate/edufelizardo/spring-boot-profiles-testes-deploy)
+
+  * [Formação: Java e Spring Boot](https://cursos.alura.com.br/user/edufelizardo/degree-spring-framework-136314/certificate)
+    * [Curso: Spring Boot 3: desenvolva uma API Rest em Java](https://cursos.alura.com.br/certificate/edufelizardo/spring-boot-3-desenvolva-api-rest-java)
+    * [Curso: Spring Boot 3: aplique boas práticas e proteja uma API Rest](https://cursos.alura.com.br/certificate/edufelizardo/spring-boot-aplique-boas-praticas-proteja-api-rest)
+    * [Curso: Spring Boot 3: documente, teste e prepare uma API para o deploy](https://cursos.alura.com.br/certificate/edufelizardo/spring-boot-3-documente-teste-prepare-api-deploy)
+
+  * [Formação: Gerente Ágil - Metodologia Agile | Alura](https://cursos.alura.com.br/user/edufelizardo/degree-gerente-agil-v150159-150159/certificate)
+    * [Curso: Agilidade: promovendo a transformação ágil](https://cursos.alura.com.br/certificate/edufelizardo/fundamentos-agilidade)    
+    * [Curso: Scrum: agilidade em seu projeto](https://cursos.alura.com.br/certificate/edufelizardo/agile-scrum)    
+    * [Curso: Scrum parte 1: gerencie o seu projeto de forma ágil](https://cursos.alura.com.br/certificate/edufelizardo/scrum-parte-1)    
+    * [Curso: Scrum parte 2: o Manifesto Ágil, liderança e organização em Scrum](https://cursos.alura.com.br/certificate/edufelizardo/scrum-parte-2)    
+    * [Curso: Scrum parte 3: projetos com Agile](https://cursos.alura.com.br/certificate/edufelizardo/scrum-parte-3)    
+    * [Curso: Scrum parte 4: planejando projetos com Agile](https://cursos.alura.com.br/certificate/edufelizardo/scrum-parte-4)    
+    * [Curso: Scrum parte 5: executando projetos com Agile](https://cursos.alura.com.br/certificate/edufelizardo/scrum-parte-5)    
+    * [Curso: Scrum parte 6: revisão, retrospectiva e encerramento de projetos com Agile](https://cursos.alura.com.br/certificate/edufelizardo/scrum-parte-6)    
+    * [Curso: Kanban parte 1: fundamentos essenciais](https://cursos.alura.com.br/certificate/edufelizardo/kanban-primeiros-passos)    
+    * [Curso: Kanban parte 2: métricas e práticas avançadas](https://cursos.alura.com.br/certificate/edufelizardo/kanban-avancado)    
+    * [Curso: Liderança: aprendendo sobre a missão e propósito de liderar pessoas](https://cursos.alura.com.br/certificate/edufelizardo/primeira-lideranca-aprendendo-liderar-pessoas)    
+    * [Curso: Agile na prática: técnicas aplicadas para Gestão Ágil](https://cursos.alura.com.br/certificate/edufelizardo/agile-na-pratica)    
+    * [Curso: Agile avançado: crie modelos e descubra o Nexus](https://cursos.alura.com.br/certificate/edufelizardo/agile-avancado)    
+
+  <p>Cursos:</p>
+
+  * [Em Breve](https://cursos.alura.com.br/user/edufelizardo/degree-gerente-agil-v150159-150159/certificate)
+</details>
+
+#
+## Udemy
+<details>
+  <summary>Clique para ver mais informações</summary>
+
+  * [Em Breve](https://cursos.alura.com.br/user/edufelizardo/degree-gerente-agil-v150159-150159/certificate)
+
+  <p>Formações:</p>
+</details>
+
+#
+## DIO
+<details>
+  <summary>Clique para ver mais informações</summary>
+
+  * [Em Breve](https://cursos.alura.com.br/user/edufelizardo/degree-gerente-agil-v150159-150159/certificate)
+
+  <p>Formações:</p>
+</details>
+
+#
+## Bachelor's Degree
+<details>
+  <summary>Clique para ver mais informações</summary>
+  <p>Formações:</p>
+
+  * Computer Engineering
+    * University: Cruzeiro do Sul
+
+</details>
+
+#
+## Technologist
+<details>
+  <summary>Clique para ver mais informações</summary>
+  <p>Formações:</p>
+
+  * Associate's Degree in Mechanical Design
+    * FATEC: São Paulo
+  * Associate's Degree in Industrial Automation
+    * FATEC: Hirante Sanazar
+
+</details>
+
+#
+## Graduate Program
+<details>
+  <summary>Clique para ver mais informações</summary>
+  <p>Formações:</p>
+
+  * Graduate Program in Software Quality and Testing Engineering
+    * University: PUC Minas
+
+</details>
+
+#
