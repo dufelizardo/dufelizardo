@@ -104,7 +104,17 @@ Here are some ideas to get you started:
 <details>
   <summary>Clique para ver mais informações</summary>
 
-  * [Em Breve](https://cursos.alura.com.br/user/edufelizardo/degree-gerente-agil-v150159-150159/certificate)
+  * [Jira + Xray 2024: Aprenda a criar e gerir seu Plano de Teste](https://www.udemy.com/certificate/UC-6279b1ea-df2d-4d85-a199-f431151d90c3/)
+  * [Automação de Testes com Robot Framework - Básico](https://www.udemy.com/certificate/UC-1e9cbe0a-00ca-46e2-88be-8771868d0190/)
+  * [Automação de Testes com Robot Framework - Avançado](https://www.udemy.com/certificate/UC-5e52b8ef-6523-4b1b-9fac-a7d558430c4e/)
+  * [Power BI Completo - Do Básico ao Avançado](https://www.udemy.com/certificate/UC-42a876fa-5077-45eb-89b1-04d1a8b8b2e8/)
+  * [Teste de Software Manual: Do Planejamento à Execução](https://www.udemy.com/certificate/UC-8148215b-c1c7-4e62-882f-7a7412919c5d/)
+  * [Dominando Postman (2023): Testando e Automatizando APIs](https://www.udemy.com/certificate/UC-a8184c12-11f1-4f6f-9829-8f8ccae1ba84/)
+  * [Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)](https://www.udemy.com/certificate/UC-8d3958a1-cd5e-4f6b-b646-52001cf29cfa/)
+  * [Automação de testes de API com Postman + Projeto de testes](https://www.udemy.com/certificate/UC-c47e9f9f-7b3b-4a3f-8015-89db528c8319/)
+  * [Testes Automáticos + Curso COMPLETO de Teste de Software](https://www.udemy.com/certificate/UC-e3598170-4a51-443d-8510-62c835b83d44/)
+  * [Curso para Certificação de Testes - CTFL - ISTQB/BSTQB (v4)](https://www.udemy.com/certificate/UC-b86d414c-9051-4167-8626-56ffe44f544b/)
+  * [Intellij IDE para Desenvolvedores Java]()
 
   <p>Formações:</p>
 </details>
