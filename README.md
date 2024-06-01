@@ -42,6 +42,11 @@ Here are some ideas to get you started:
   -->
   
 #
+
+## Formação
+<details>
+  <summary>Clique para ver mais informações</summary>
+  
 ## Alura
 
 <details>
@@ -164,4 +169,7 @@ Here are some ideas to get you started:
 
 </details>
 
+</details>
+
 #
+
