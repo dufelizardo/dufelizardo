@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   
 #
 
-## Formação
+## Academic Background
 <details>
   <summary>Clique para ver mais informações</summary>
   
