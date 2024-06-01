@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## Academic Background
 <details>
-  <summary>Clique para ver mais informações</summary>
+  <summary>Click Here</summary>
   
 ## Alura
 
