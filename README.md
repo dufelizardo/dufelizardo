@@ -204,17 +204,6 @@ Here are some ideas to get you started:
 
 #
 
-## Graduate Program
-<details>
-  <summary>Clique para ver mais informações</summary>
-  <p>Formações:</p>
-
-  * Graduate Program in Software Quality and Testing Engineering
-    * University: PUC Minas
-
-</details>
-
-#
 ## Books Read or Researched
 <details>
   <summary>Click Here</summary>
@@ -231,3 +220,4 @@ Here are some ideas to get you started:
 
 </details>
 
+#
