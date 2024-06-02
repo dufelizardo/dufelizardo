@@ -99,9 +99,30 @@ Here are some ideas to get you started:
     * [Curso: Agile na prática: técnicas aplicadas para Gestão Ágil](https://cursos.alura.com.br/certificate/edufelizardo/agile-na-pratica)    
     * [Curso: Agile avançado: crie modelos e descubra o Nexus](https://cursos.alura.com.br/certificate/edufelizardo/agile-avancado)    
 
+  * [Formação: Digital & Agile Thinking](https://cursos.alura.com.br/user/edufelizardo/degree-digital-e-agile-thinking-v346748-346748/certificate)
+    * [Curso: Agilidade: promovendo a transformação ágil](https://cursos.alura.com.br/certificate/edufelizardo/fundamentos-agilidade)
+    * [Curso: A Empresa Ágil: implemente o Business Agility nas organizações](https://cursos.alura.com.br/certificate/edufelizardo/empresa-agil)
+    * [Curso: Scrum: agilidade em seu projeto](https://cursos.alura.com.br/certificate/edufelizardo/agile-scrum)
+    * [Curso: Kanban: análises para implementação](https://cursos.alura.com.br/certificate/edufelizardo/kanban-analises-implementacao)
+    * [Curso: Kanban: evolua suas entregas com métricas](https://cursos.alura.com.br/certificate/edufelizardo/kanban-evolua-entregas-metricas)
+    * [Curso: Agile avançado: crie modelos e descubra o Nexus](https://cursos.alura.com.br/certificate/edufelizardo/agile-avancado)
+    * [Curso: Management 3.0: gerencie o ambiente, não as pessoas](https://cursos.alura.com.br/certificate/edufelizardo/management-3-0-gerencie-ambiente-nao-pessoas)
+
+  * [Formação: Gestão da qualidade](https://cursos.alura.com.br/user/edufelizardo/degree-gestao-qualidade-513544/certificate)
+    * [Curso: Quality Assurance: plano de testes e gestão de bugs](https://cursos.alura.com.br/certificate/edufelizardo/quality-assurance-plano-testes-gestao-bugs)
+    * [Curso: Gerenciamento de qualidade de software parte 1: o documento MDS](https://cursos.alura.com.br/certificate/edufelizardo/gerenciamento-qualidade-software-documento-mds)
+    * [Curso: Six Sigma: metodologia para melhoria de processos](https://cursos.alura.com.br/certificate/edufelizardo/six-sigma-melhoria-processos)
+    * [Curso: Value Stream Mapping (VSM): desenhe um Mapa de Valor](https://cursos.alura.com.br/certificate/edufelizardo/vsm-desenhe-mapa-valor)
+    * [Curso: Value Stream Mapping (VSM): conheça o mapeamento de Fluxo de Valor](https://cursos.alura.com.br/certificate/edufelizardo/vsm-mapeamento-fluxo-valor)
+    * [Curso: Bizagi: mapeamento de processos com BPMN](https://cursos.alura.com.br/certificate/edufelizardo/bizagi-com-bpmn)
+    * [Curso: Diagnóstico em gestão de processos: entendendo as necessidades](https://cursos.alura.com.br/certificate/edufelizardo/gestao-processos-diagnostico-necessidades)
+    * [Curso: Análise da gestão de processos: implantando melhorias](https://cursos.alura.com.br/certificate/edufelizardo/gestao-processos-implantando-melhorias)
+    * [Curso: Otimizando a gestão de processos: monitoração e controle](https://cursos.alura.com.br/certificate/edufelizardo/otimizando-gestao-processos-monitoracao-controle)
+      
+      
   <p>Cursos:</p>
 
-  * [Em Breve](https://cursos.alura.com.br/user/edufelizardo/degree-gerente-agil-v150159-150159/certificate)
+  * [Histórico](https://cursos.alura.com.br/user/edufelizardo/fullCertificate/ca005335381cd57d44ccd45b4de37f81)
 </details>
 
 #
@@ -129,7 +150,17 @@ Here are some ideas to get you started:
 <details>
   <summary>Clique para ver mais informações</summary>
 
-  * [Em Breve](https://cursos.alura.com.br/user/edufelizardo/degree-gerente-agil-v150159-150159/certificate)
+  * [Bootcamp: everis FullStack Developer](https://www.dio.me/certificate/F59D116D/share)
+  * [Bootcamp: Avanade Fullstack Developer](https://www.dio.me/certificate/A3AD36EF/share)
+  * [Bootcamp: Spread Java Developer](https://www.dio.me/certificate/BD533A14/share)
+  * [Bootcamp: Usando Orientação a Objetos em Java](https://www.dio.me/certificate/B26CAC29/share)
+  * [Bootcamp: Pottencial .NET Developer](https://www.dio.me/certificate/7E3E162D/share)
+  * [Bootcamp: GFT Quality Assurance #1](https://www.dio.me/certificate/F790A8D3/share)
+  * [Bootcamp: Aceleração Global Dev #15 GFT](https://www.dio.me/certificate/C8CBFB48/share)
+  * [Bootcamp: GFT START_UNI 2021 #1](https://www.dio.me/certificate/21CD6CF4/share)
+  * [Bootcamp: Backend Developer Carrefour](https://www.dio.me/certificate/623EF278/share)
+  * [Bootcamp: Become Remote](https://www.dio.me/certificate/6B4D50F4/share)
+  * [Bootcamp: GFT START_UNI 2021 #1](https://www.dio.me/certificate/21CD6CF4/share)
 
   <p>Formações:</p>
 </details>
@@ -172,4 +203,31 @@ Here are some ideas to get you started:
 </details>
 
 #
+
+## Graduate Program
+<details>
+  <summary>Clique para ver mais informações</summary>
+  <p>Formações:</p>
+
+  * Graduate Program in Software Quality and Testing Engineering
+    * University: PUC Minas
+
+</details>
+
+#
+## Books Read or Researched
+<details>
+  <summary>Click Here</summary>
+  <p>Books:</p>
+
+  * [Book: Implementing Automated Software Testing: How to Save Time and Lower Costs While Raising Quality](https://learning.oreilly.com/library/view/implementing-automated-software/9780321619600/)
+  * [Book: Learn API Testing: Norms, Practices, and Guidelines for Building Effective Test Automation](https://learning.oreilly.com/library/view/learn-api-testing/9781484281420/)
+  * [Book: Full Stack Testing](https://learning.oreilly.com/library/view/full-stack-testing/9781098108120/)
+  * [Book: The Art of Software Testing, 3rd Edition](https://learning.oreilly.com/library/view/the-art-of/9781118133156/)
+  * [Book: Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/)
+  * [Book: Learning GitHub Actions](https://learning.oreilly.com/library/view/learning-github-actions/9781098131067/)
+  * [Book: Cloud Computing Basics: A Non-Technical Introduction](https://learning.oreilly.com/library/view/cloud-computing-basics/9781484269213/)
+  * [Book: Software Quality Assurance](https://learning.oreilly.com/library/view/software-quality-assurance/9781118501825/)
+
+</details>
 
